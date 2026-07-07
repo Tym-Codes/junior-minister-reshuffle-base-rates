@@ -1,0 +1,48 @@
+window_days,sos_changed_in_original_department,split_outcome_code,split_outcome_label,n,denominator,pct,sample
+14,False,left_or_no_better_role,Demoted or moved to a lower-ranked role,12,2328,0.5154639175257731,all_events
+14,False,left_or_no_better_role,Left government or had no better role,249,2328,10.695876288659793,all_events
+14,False,promoted,Promoted,204,2328,8.762886597938143,all_events
+14,False,sideways_move,Moved sideways,212,2328,9.106529209621993,all_events
+14,False,sideways_move,Sideways move / ambiguous restructure,39,2328,1.675257731958763,all_events
+14,False,stayed_original_role,Stayed in exact original role,1612,2328,69.24398625429554,all_events
+14,True,left_or_no_better_role,Demoted or moved to a lower-ranked role,33,1586,2.080706179066835,all_events
+14,True,left_or_no_better_role,Left government or had no better role,489,1586,30.832282471626733,all_events
+14,True,promoted,Promoted,211,1586,13.30390920554855,all_events
+14,True,sideways_move,Moved sideways,202,1586,12.736443883984869,all_events
+14,True,sideways_move,Sideways move / ambiguous restructure,81,1586,5.10718789407314,all_events
+14,True,stayed_original_role,Stayed in exact original role,570,1586,35.93947036569987,all_events
+14,False,left_or_no_better_role,Demoted or moved to a lower-ranked role,2,112,1.7857142857142856,new_pm_reshuffles
+14,False,left_or_no_better_role,Left government or had no better role,23,112,20.535714285714285,new_pm_reshuffles
+14,False,promoted,Promoted,10,112,8.928571428571429,new_pm_reshuffles
+14,False,sideways_move,Moved sideways,14,112,12.5,new_pm_reshuffles
+14,False,stayed_original_role,Stayed in exact original role,63,112,56.25,new_pm_reshuffles
+14,True,left_or_no_better_role,Demoted or moved to a lower-ranked role,21,349,6.017191977077363,new_pm_reshuffles
+14,True,left_or_no_better_role,Left government or had no better role,81,349,23.20916905444126,new_pm_reshuffles
+14,True,promoted,Promoted,61,349,17.478510028653297,new_pm_reshuffles
+14,True,sideways_move,Moved sideways,66,349,18.911174785100286,new_pm_reshuffles
+14,True,sideways_move,Sideways move / ambiguous restructure,15,349,4.297994269340974,new_pm_reshuffles
+14,True,stayed_original_role,Stayed in exact original role,105,349,30.08595988538682,new_pm_reshuffles
+14,False,left_or_no_better_role,Demoted or moved to a lower-ranked role,11,1974,0.5572441742654508,excluding_elections
+14,False,left_or_no_better_role,Left government or had no better role,165,1974,8.358662613981762,excluding_elections
+14,False,promoted,Promoted,168,1974,8.51063829787234,excluding_elections
+14,False,sideways_move,Moved sideways,159,1974,8.054711246200608,excluding_elections
+14,False,sideways_move,Sideways move / ambiguous restructure,36,1974,1.82370820668693,excluding_elections
+14,False,stayed_original_role,Stayed in exact original role,1435,1974,72.69503546099291,excluding_elections
+14,True,left_or_no_better_role,Demoted or moved to a lower-ranked role,26,1096,2.3722627737226274,excluding_elections
+14,True,left_or_no_better_role,Left government or had no better role,178,1096,16.240875912408757,excluding_elections
+14,True,promoted,Promoted,165,1096,15.054744525547445,excluding_elections
+14,True,sideways_move,Moved sideways,158,1096,14.416058394160583,excluding_elections
+14,True,sideways_move,Sideways move / ambiguous restructure,62,1096,5.656934306569343,excluding_elections
+14,True,stayed_original_role,Stayed in exact original role,507,1096,46.25912408759124,excluding_elections
+14,False,left_or_no_better_role,Demoted or moved to a lower-ranked role,2,387,0.516795865633075,technical_economic
+14,False,left_or_no_better_role,Left government or had no better role,52,387,13.436692506459949,technical_economic
+14,False,promoted,Promoted,27,387,6.976744186046512,technical_economic
+14,False,sideways_move,Moved sideways,39,387,10.077519379844961,technical_economic
+14,False,sideways_move,Sideways move / ambiguous restructure,13,387,3.359173126614987,technical_economic
+14,False,stayed_original_role,Stayed in exact original role,254,387,65.63307493540051,technical_economic
+14,True,left_or_no_better_role,Demoted or moved to a lower-ranked role,6,317,1.8927444794952681,technical_economic
+14,True,left_or_no_better_role,Left government or had no better role,110,317,34.70031545741325,technical_economic
+14,True,promoted,Promoted,38,317,11.987381703470032,technical_economic
+14,True,sideways_move,Moved sideways,28,317,8.832807570977918,technical_economic
+14,True,sideways_move,Sideways move / ambiguous restructure,32,317,10.094637223974763,technical_economic
+14,True,stayed_original_role,Stayed in exact original role,103,317,32.49211356466877,technical_economic

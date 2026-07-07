@@ -1,0 +1,41 @@
+event_type,sos_changed_in_original_department,outcome_code,outcome_label,n
+election_formation,False,A,Stayed in exactly the same role and department,177
+election_formation,False,B,Stayed in same department but changed portfolio/title,18
+election_formation,False,C,Moved to another department,58
+election_formation,False,D,Promoted to secretary of state or Cabinet-level role,14
+election_formation,False,E,Left government,84
+election_formation,False,F,Ambiguous due to department merger/abolition or machinery-of-government change,2
+election_formation,False,F,Ambiguous due to department restructure/title rename,1
+election_formation,True,A,Stayed in exactly the same role and department,63
+election_formation,True,B,Stayed in same department but changed portfolio/title,5
+election_formation,True,C,Moved to another department,58
+election_formation,True,D,Promoted to secretary of state or Cabinet-level role,29
+election_formation,True,E,Left government,311
+election_formation,True,F,Ambiguous due to department merger/abolition or machinery-of-government change,14
+election_formation,True,F,Ambiguous due to department restructure/title rename,10
+new_pm_reshuffle,False,A,Stayed in exactly the same role and department,63
+new_pm_reshuffle,False,B,Stayed in same department but changed portfolio/title,7
+new_pm_reshuffle,False,C,Moved to another department,13
+new_pm_reshuffle,False,D,Promoted to secretary of state or Cabinet-level role,6
+new_pm_reshuffle,False,E,Left government,23
+new_pm_reshuffle,True,A,Stayed in exactly the same role and department,105
+new_pm_reshuffle,True,B,Stayed in same department but changed portfolio/title,10
+new_pm_reshuffle,True,C,Moved to another department,93
+new_pm_reshuffle,True,D,Promoted to secretary of state or Cabinet-level role,44
+new_pm_reshuffle,True,E,Left government,81
+new_pm_reshuffle,True,F,Ambiguous due to department merger/abolition or machinery-of-government change,9
+new_pm_reshuffle,True,F,Ambiguous due to department restructure/title rename,7
+ordinary_reshuffle_cluster,False,A,Stayed in exactly the same role and department,1372
+ordinary_reshuffle_cluster,False,B,Stayed in same department but changed portfolio/title,60
+ordinary_reshuffle_cluster,False,C,Moved to another department,168
+ordinary_reshuffle_cluster,False,D,Promoted to secretary of state or Cabinet-level role,83
+ordinary_reshuffle_cluster,False,E,Left government,142
+ordinary_reshuffle_cluster,False,F,Ambiguous due to department merger/abolition or machinery-of-government change,7
+ordinary_reshuffle_cluster,False,F,Ambiguous due to department restructure/title rename,30
+ordinary_reshuffle_cluster,True,A,Stayed in exactly the same role and department,402
+ordinary_reshuffle_cluster,True,B,Stayed in same department but changed portfolio/title,29
+ordinary_reshuffle_cluster,True,C,Moved to another department,118
+ordinary_reshuffle_cluster,True,D,Promoted to secretary of state or Cabinet-level role,48
+ordinary_reshuffle_cluster,True,E,Left government,97
+ordinary_reshuffle_cluster,True,F,Ambiguous due to department merger/abolition or machinery-of-government change,15
+ordinary_reshuffle_cluster,True,F,Ambiguous due to department restructure/title rename,38

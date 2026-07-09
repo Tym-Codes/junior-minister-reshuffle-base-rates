@@ -1,6 +1,6 @@
 # UK reshuffle junior-minister base-rate analysis
 
-This folder contains a reproducible analysis built from the Institute for Government Ministers Database public data.
+This repo contains a reproducible analysis built from the Institute for Government Ministers Database public data.
 
 Source data:
 - IfG Ministers Database public GitHub CSVs and SQLite database, downloaded to `work/`.

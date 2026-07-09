@@ -1,6 +1,6 @@
 # UK reshuffle junior-minister base-rate analysis
 
-This repo contains a reproducible analysis built from the Institute for Government Ministers Database public data.
+This repo contains a reproducible analysis built from the Institute for Government Ministers Database public data. It was created by OpenAI's codex for the a personal opinion Substack analysis, but all mistakes are my own. 
 
 Source data:
 - IfG Ministers Database public GitHub CSVs and SQLite database, downloaded to `work/`.
